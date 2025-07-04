@@ -98,9 +98,12 @@ Add Streamlit or Tkinter GUI
 
 Try connecting with Arduino for hardware control
 
+```
+
 👨‍💻 Author
+
 Subikshan P
+
 B.Tech Artificial Intelligence & Machine Learning (Class of 2027)
+
 Saveetha Engineering College, Chennai
-🔗 LinkedIn
-🔗 GitHub
